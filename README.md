@@ -1,7 +1,7 @@
 # Memory Game Project
 
 ## Getting Started
-This memory game is a 16 cards game which you required to match the same cards.   
+This memory game is a 16 cards game which you required to match pairs of the same cards.   
 
 ## Browser Compatibilities
 The project has been tested on Chrome, Edge and Firefox
